@@ -19,6 +19,12 @@ You could use it as a base for you own workflow. What I use it for:
 - Install dependencies: npm install
 - Build project: npm run build
 
+__OR__
+
+I build the project locally and uploaded commited the dist folder also - so you dont need to install npm etc if you 
+just want to take a look. But if you need to adjust settings, paths, ... there is no other option then adjusting vue files
+and rebuilding it.
+
 ## Execute
 
 After building the project, you will find a dist/ folder in the root which contains two files. One is an index.html 
