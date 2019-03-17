@@ -27,3 +27,11 @@ which can be opened with a webbrowser.
 ## Example:
 
 I uploaded the current version here: __https://www.damianschwyrz.de/interface/index.html__
+
+## What you need to know
+
+I won't add more modules to this public version because everyone uses other commands/tools and has its own workflow.
+
+Additionally: The dirsearch version used here for command generation is my own fork: https://github.com/Damian89/dirsearch
+
+The main difference is - it has more then only GET http method.
